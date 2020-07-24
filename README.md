@@ -1,4 +1,4 @@
-[![Ivan Sorokin's github stats](https://github-readme-stats.vercel.app/api?username=i1skn&show_icons=true&title_color=000&icon_color=2cbe4e&text_color=1b1f23)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan Sorokin's github stats](https://github-readme-stats.vercel.app/api?username=i1skn&show_icons=true&title_color=0366d6&icon_color=2cbe4e&text_color=1b1f23)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **i1skn/i1skn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
